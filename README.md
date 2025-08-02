@@ -7,7 +7,6 @@
 </h1>
 
 
-
 <h3 align="center"> 
  책 속의 인물을 주인공으로 캐스팅하여 영상으로 만들어주는 서비스
 </h3>
@@ -19,9 +18,8 @@
 <br/>
 
 ---
-
+## ✍️ 프로젝트 정보
 - 프로젝트 개발 기간: 2025.6.30 ~ 2025.7.31
-- 프로젝트 형태: 2025 Techeer Summer BootCamp Team E
 
 <!--  여기다가 간단한 프로젝트 설명-->
 
@@ -165,9 +163,3 @@ RABBITMQ_PASSWORD=
     <td><a href="https://github.com/KimYeJin1004"><img src="https://img.shields.io/badge/KimYeJin1004-181717?style=flat&logo=github&logoColor=white"/></a></td>
   </tr>
 </table>
-
-
-
-
-
-
