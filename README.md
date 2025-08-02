@@ -58,14 +58,22 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
 3. 다
 
 
-## 👨‍💻 개발 인원
-
 ## ⚙️ System Architecture
 <img width="1734" height="1034" alt="수정본7" src="https://github.com/user-attachments/assets/5d5aedfe-3eb8-45c6-b64b-cf475f597a84" />
 
 
 
 ## 📚 Tech Stack
+## 📚 Tech Stack
+
+| 🧩 Role | 🧰 Stack |
+|--------|---------|
+| 🎨 **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=flat) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=flat) |
+| 🛠 **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat) ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=flat) ![DRF](https://img.shields.io/badge/-DRF-ff1709?logo=django&logoColor=white&style=flat) |
+| 🗄 **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat) |
+| 🤖 **AI** | ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=google&logoColor=white&style=flat) ![Veo](https://img.shields.io/badge/-Veo3-FFCD00?style=flat) |
+| ⚙️ **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat) ![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?logo=traefikproxy&logoColor=white&style=flat) |
+| 📊 **Monitoring** | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat) ![cAdvisor](https://img.shields.io/badge/-cAdvisor-9ACD32?style=flat) |
 
 
 ## 🗺️ ERD
