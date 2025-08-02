@@ -26,7 +26,8 @@
 ## ✍️ 프로젝트 소개
 
 ### 📝 Medium
-https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f3290fceeea
+### 📝 [EpiLog Medium](https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f3290fceeea)
+
 
 
 
