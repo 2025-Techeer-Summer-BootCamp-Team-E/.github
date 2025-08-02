@@ -83,17 +83,17 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
 | 시각화 도구 | Grafana |
 
 ### 🧩 Django (애플리케이션 모니터링)
-![Django Dashboard] (<img width="1400" height="529" alt="image" src="https://github.com/user-attachments/assets/e0316586-4bbe-429e-bf05-04c0cc7f167f" />)
+<img width="1400" height="529" alt="image" src="https://github.com/user-attachments/assets/e0316586-4bbe-429e-bf05-04c0cc7f167f" />
+
 
 ### 📄 Loki
-
 | 항목 | 설명 |
 |------|------|
 | 역할 | 로그 수집 및 검색 시스템 |
 | 수집 대상 | Django, Celery, Traefik 등 주요 서비스 |
 | 시각화 도구 | Grafana Explore 탭에서 로그 검색 가능 |
 
-![Loki Dashboard](<img width="1400" height="529" alt="image" src="https://github.com/user-attachments/assets/5f6e2ffc-1a45-4172-af35-4be0c65873a1" />)
+<img width="1400" height="529" alt="image" src="https://github.com/user-attachments/assets/5f6e2ffc-1a45-4172-af35-4be0c65873a1" />
 
 
 ## 📌 Installation
@@ -101,7 +101,45 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
 
 
 ## 👪 Member
-
+<table>
+  <tr>
+    <th>Pictures</th>
+    <td><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ba5c35b7-226f-4291-a323-284380e9a245" />
+" width="100"/></td>
+    <td><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6bfd920c-380a-4136-b581-ca5cfc15ea54" />
+" width="100"/></td>
+    <td><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8cc71ad8-c36a-4a05-b43d-921bfb00a72f" />
+" width="100"/></td>
+    <td><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/03445c1d-6658-44b0-a42a-c3ab85062e99" />
+" width="100"/></td>
+    <td><img src="<img width="398" height="512" alt="image" src="https://github.com/user-attachments/assets/4b709e95-780d-4d5c-8b69-759e5495b692" />
+" width="100"/></td>
+  </tr>
+  <tr>
+    <th>Name</th>
+    <td>정원희</td>
+    <td>현승곤</td>
+    <td>조준민</td>
+    <td>오건은</td>
+    <td>김예진</td>
+  </tr>
+  <tr>
+    <th>Position</th>
+    <td>Team Leader<br/>Frontend</td>
+    <td>Frontend</td>
+    <td>Frontend</td>
+    <td>Backend<br/>DevOps</td>
+    <td>Backend</td>
+  </tr>
+  <tr>
+    <th>GitHub</th>
+    <td><a href="https://github.com/ukongee"><img src="https://img.shields.io/badge/ukongee-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/kimyeeun21"><img src="https://img.shields.io/badge/kimyeeun21-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/daiseek"><img src="https://img.shields.io/badge/daiseek-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/sensesis"><img src="https://img.shields.io/badge/sensesis-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/hwanh2"><img src="https://img.shields.io/badge/hwanh2-181717?style=flat&logo=github&logoColor=white"/></a></td>
+  </tr>
+</table>
 
 
 
