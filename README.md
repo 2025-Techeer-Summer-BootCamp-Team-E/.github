@@ -136,7 +136,7 @@ GRAFANA_ROLE=
 
 RABBITMQ_USER=
 RABBITMQ_PASSWORD=
-
+```
 
 ## 👪 Member
 <table>
