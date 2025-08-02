@@ -103,14 +103,6 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
 ## 👪 Member
 <table>
   <tr>
-    <th>Pictures</th>
-    <td><img src="./images/daiseek.png" width="100"/></td>
-    <td><img src="./images/invalidhuman.png" width="100"/></td>
-    <td><img src="./images/coom1222.png" width="100"/></td>
-    <td><img src="./images/siillvergun.png" width="100"/></td>
-    <td><img src="./images/KimYeJin1004.png" width="100"/></td>
-  </tr>
-  <tr>
     <th>Name</th>
     <td>정원희</td>
     <td>현승곤</td>
