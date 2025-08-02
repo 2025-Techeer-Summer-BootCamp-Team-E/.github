@@ -104,16 +104,11 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
 <table>
   <tr>
     <th>Pictures</th>
-    <td><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ba5c35b7-226f-4291-a323-284380e9a245" />
-" width="100"/></td>
-    <td><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6bfd920c-380a-4136-b581-ca5cfc15ea54" />
-" width="100"/></td>
-    <td><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8cc71ad8-c36a-4a05-b43d-921bfb00a72f" />
-" width="100"/></td>
-    <td><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/03445c1d-6658-44b0-a42a-c3ab85062e99" />
-" width="100"/></td>
-    <td><img src="<img width="398" height="512" alt="image" src="https://github.com/user-attachments/assets/4b709e95-780d-4d5c-8b69-759e5495b692" />
-" width="100"/></td>
+    <td><img src="./images/daiseek.png" width="100"/></td>
+    <td><img src="./images/invalidhuman.png" width="100"/></td>
+    <td><img src="./images/coom1222.png" width="100"/></td>
+    <td><img src="./images/siillvergun.png" width="100"/></td>
+    <td><img src="./images/KimYeJin1004.png" width="100"/></td>
   </tr>
   <tr>
     <th>Name</th>
@@ -125,19 +120,19 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
   </tr>
   <tr>
     <th>Position</th>
-    <td>Team Leader<br/>Frontend</td>
-    <td>Frontend</td>
-    <td>Frontend</td>
-    <td>Backend<br/>DevOps</td>
+    <td>DevOps<br/>Leader<br/>Backend</td>
+    <td>Backend<br/>Frontend</td>
     <td>Backend</td>
+    <td>Frontend</td>
+    <td>Frontend</td>
   </tr>
   <tr>
     <th>GitHub</th>
-    <td><a href="https://github.com/ukongee"><img src="https://img.shields.io/badge/ukongee-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    <td><a href="https://github.com/kimyeeun21"><img src="https://img.shields.io/badge/kimyeeun21-181717?style=flat&logo=github&logoColor=white"/></a></td>
     <td><a href="https://github.com/daiseek"><img src="https://img.shields.io/badge/daiseek-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    <td><a href="https://github.com/sensesis"><img src="https://img.shields.io/badge/sensesis-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    <td><a href="https://github.com/hwanh2"><img src="https://img.shields.io/badge/hwanh2-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/invalidhuman"><img src="https://img.shields.io/badge/invalidhuman-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/coom1222"><img src="https://img.shields.io/badge/coom1222-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/siillvergun"><img src="https://img.shields.io/badge/siillvergun-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/KimYeJin1004"><img src="https://img.shields.io/badge/KimYeJin1004-181717?style=flat&logo=github&logoColor=white"/></a></td>
   </tr>
 </table>
 
