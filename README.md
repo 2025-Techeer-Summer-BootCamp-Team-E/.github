@@ -69,13 +69,31 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
 
 
 ## 🗺️ ERD
+<img width="2650" height="1082" alt="2025-Team-E-Version4 (4)" src="https://github.com/user-attachments/assets/b7d0dac9-1f81-40da-a150-b9c989d68005" />
+
 
 
 ## 📄 API
 
 ## Monitoring
+| 항목 | 설명 |
+|------|------|
+| 역할 | 메트릭 수집 및 시각화를 위한 데이터 소스 |
+| 수집 대상 | Django, Celery, DB, cAdvisor 등 |
+| 시각화 도구 | Grafana |
 
+### 🧩 Django (애플리케이션 모니터링)
+![Django Dashboard] (<img width="1400" height="529" alt="image" src="https://github.com/user-attachments/assets/e0316586-4bbe-429e-bf05-04c0cc7f167f" />)
 
+### 📄 Loki
+
+| 항목 | 설명 |
+|------|------|
+| 역할 | 로그 수집 및 검색 시스템 |
+| 수집 대상 | Django, Celery, Traefik 등 주요 서비스 |
+| 시각화 도구 | Grafana Explore 탭에서 로그 검색 가능 |
+
+![Loki Dashboard](<img width="1400" height="529" alt="image" src="https://github.com/user-attachments/assets/5f6e2ffc-1a45-4172-af35-4be0c65873a1" />)
 
 
 ## 📌 Installation
@@ -83,5 +101,10 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
 
 
 ## 👪 Member
+
+
+
+
+
 
 
