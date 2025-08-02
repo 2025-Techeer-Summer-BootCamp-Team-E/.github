@@ -30,16 +30,20 @@
 
 ## 🎥 프로젝트 데모
 
-1. 책 입력하기  
+### 1. 책 입력하기
+
    <img src="./assets/inputBook.gif" width="100%" />
 
-2. 캐릭터 분석하기  
+### 2. 캐릭터 분석하기
+
    <img src="./assets/characters.gif" width="100%" />
 
-3. 대본 생성하기  
+### 3. 대본 생성하기
+
    <img src="./assets/scripts.gif" width="100%" />
 
-4. 영상 생성 및 조회하기  
+### 4. 영상 생성 및 조회하기
+
    <img src="./assets/videos.gif" width="100%" />
 
 ## ⚙️ System Architecture
