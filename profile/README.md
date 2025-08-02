@@ -34,7 +34,7 @@
    <img src="./assets/inputBook.gif" width="100%" />
 
 2. 캐릭터 분석하기  
-   <img src="./assets/character.gif" width="100%" />
+   <img src="./assets/characters.gif" width="100%" />
 
 3. 대본 생성하기  
    <img src="./assets/scripts.gif" width="100%" />
