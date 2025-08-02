@@ -51,12 +51,6 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
 
 
 
-### 주요기능
-
-1. 가
-2. 나
-3. 다
-
 
 ## ⚙️ System Architecture
 <img width="1734" height="1034" alt="수정본7" src="https://github.com/user-attachments/assets/5d5aedfe-3eb8-45c6-b64b-cf475f597a84" />
@@ -64,9 +58,8 @@ https://medium.com/@dnjsgml0578/2025-summer-silicon-valley-bootcamp-epilog-3f329
 
 
 ## 📚 Tech Stack
-## 📚 Tech Stack
 
-| 🧩 Role | 🧰 Stack |
+| Position |  Stack |
 |--------|---------|
 | 🎨 **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=flat) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=flat) |
 | 🛠 **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat) ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=flat) ![DRF](https://img.shields.io/badge/-DRF-ff1709?logo=django&logoColor=white&style=flat) |
